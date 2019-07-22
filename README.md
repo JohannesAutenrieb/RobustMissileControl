@@ -14,7 +14,7 @@ This Software Project was created as part of the Autonomous Control Systems modu
 The problem presented in this assignment was the robust conrol of a transsonic missile model with modelling uncertanties in MATLAB/Simulink. The linearised system and information about the uncertanties have been provided by the lecturer. This work was mainly on the development of the required control law for which the robust contol toolbox of MATLAb has been utilised. 
 
 <p align=center>
-<img src="https://github.com/JohannesAutenrieb/RobustMissileControl/blob/master/img/bode_mag_weights.svg" alt="Statemachine_main" height=500px>
+<img src="https://github.com/JohannesAutenrieb/RobustMissileControl/blob/master/img/inner_step.JPG" alt="Statemachine_main" height=500px>
 
 ### Structure
 This assignment aims to develope a robust control system for a specified
