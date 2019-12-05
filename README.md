@@ -6,7 +6,7 @@
 This repository contains a MATLAB/Simulink simulation software for the flight dynamic simulation and robust control of an transsonic missile system.
 
 ### Discription
-This Software Project was created as part of the Autonomous Control Systems module which was held by Dr. Hyo-Sang Shin, Cranfield University for the students of the master course Autonomous Vehicle Dynamics and Control at Cranfield University. This repository contains the MATLAB/Simulink software in which the longitudinal flight dynamic model of a transsonic missile has been augmented with uncertanties and afterwards analysed.
+This Software Project was created as part of the Autonomous Control Systems module which was held by Dr. Hyo-Sang Shin, Cranfield University and Dr. Spilios Theodoulis, French-German Research Institute of Saint-Louis for the students of the masters course Autonomous Vehicle Dynamics and Control at Cranfield University. This repository contains the MATLAB/Simulink software in which the longitudinal flight dynamic model of a transsonic missile has been augmented with uncertanties and afterwards analysed.
 
 <p align=center>
 <img src="https://github.com/JohannesAutenrieb/RobustMissileControl/blob/master/img/inner_step.JPG" alt="inner" height=500px>
